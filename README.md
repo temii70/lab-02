@@ -10,7 +10,7 @@
 List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
-
+N/A
 | Student Name | CCID      |
 | ------------ | --------- |
 | `student`    | `student` |
